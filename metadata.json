@@ -1,0 +1,7 @@
+{
+  "name": "Sancor AI-First: Aprendizaje Adaptativo & Proceso de Reskilling Estratégico",
+  "description": "Una transformación que ya no es opcional.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
